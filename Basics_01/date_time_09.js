@@ -2,7 +2,7 @@ let mydate = new Date()  //date object is formed
 console.log(mydate);
 console.log(typeof mydate);
 console.log(mydate.toString());
-console.log(mydate.toDateString);
+console.log(mydate.toDateString());
 console.log(mydate.toLocaleString());
 console.log(mydate.toLocaleDateString());
 console.log(mydate.toISOString());
