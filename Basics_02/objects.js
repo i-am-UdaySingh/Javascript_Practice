@@ -92,7 +92,7 @@ console.log(dataUser[1].email);
 console.log(Object.keys(user)); //method //Output dataype array
 //That is all keys are in array //Very useful
 console.log(Object.values(user));
-console.log(Object.entries(user)); //array insie an array //very less use
+console.log(Object.entries(user)); //array inside an array //very less use
 console.log(user.hasOwnProperty('isLoggedIn')); //to ask if it has this value or not used in loops 
 //so that it doesn't crash
 
