@@ -16,7 +16,7 @@ const map = new Map()
 map.set('In', 'India')
 map.set('Rus', 'Russia')
 map.set('Fr', 'France')
-map.set('In', 'India') //Unique don't create duplicates and areb in given order
+map.set('In', 'India') //Unique don't create duplicates and are in given order
 // console.log(map);
 
 // for (const [key, value] of map) { //Array destructure
